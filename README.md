@@ -79,6 +79,7 @@ Inside `final_game.c`:
 
 - Maheen Shafiq (26K-2050)
 - Faaleha Haq (26K-2052)
+- Shanzay Siddiqui (26K-2059)
 
 ## License
 
