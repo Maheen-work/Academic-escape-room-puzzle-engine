@@ -1871,4 +1871,4 @@ int main(void){
     showHighScores();
     gfxPressAnyKey();
     return 0;
-}
+}//gcc -v -E - < NUL
